@@ -88,7 +88,7 @@ Les données sont simulées via un code Java, transmises via Apache Kafka, analy
 ##  Auteur
 
 - **Nom :** KHABBAOUI Othmane-Imrane RABAH -HAFID Haitam
-- **Projet :** Mini-projet - Systèmes Distribués
+- **Projet :** Systèmes Distribués
 - **Encadrante :** M. GUERMAH Hatim
 
 ---
